@@ -36,7 +36,7 @@
         height: 30rem;
     }
     .home::before{
-        height: 75%;
+        height: 130%;
         width: 100%;
         align-items: center;
     }
@@ -170,7 +170,7 @@
         height: 34rem;
     }
     .home::before{
-        height: 100%;
+        height: 152%;
         align-items: center;
     }
     .home h1{
